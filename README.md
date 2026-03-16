@@ -4,3 +4,6 @@
 TabuadaCentenar é um programa que gera a tabuada utilizando um sinal matemático escolhido pelo usuário. <br>
 Ele realiza cálculos entre o número informado e todos os valores de 0 até 100, mostrando cada resultado no formato de uma expressão completa.
 </p>
+<br><br>
+Modo de uso: (tabuada "número" "sinal")
+Exemplo de uso: (tabuada 4 +)
