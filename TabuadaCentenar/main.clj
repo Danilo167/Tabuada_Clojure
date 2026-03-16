@@ -7,5 +7,3 @@
         (= sinal *) (str numero " * " i " = " (* numero i))
         (= sinal /) (str numero " / " i " = " (/ numero i))
       ))))
-
-(tabuada 4 +)
